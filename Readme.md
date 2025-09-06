@@ -15,7 +15,7 @@ We replaced the Flatten layer with **GlobalAveragePooling2D** to reduce overfitt
 - **Conv2D → BatchNormalization → MaxPooling2D** (Block 1)  
 - **Conv2D → BatchNormalization → MaxPooling2D** (Block 2)  
 - **Conv2D → BatchNormalization → MaxPooling2D** (Block 3)  
-- **GlobalAveragePooling2D**  
+- **Flatten**  
 - **Dense (ReLU) + Dropout**  
 - **Dense (Softmax)**  
 
