@@ -56,7 +56,7 @@ We replaced the Flatten layer with **GlobalAveragePooling2D** to reduce overfitt
 - **Classification Report:** Precision, Recall, F1-score ≈ `0.97`  
 - **Confusion Matrix:**  
 
-![Confusion Matrix]<img width="649" height="547" alt="ConfMatrix_1" src="https://github.com/user-attachments/assets/3ea2553c-c383-4641-af19-9f20b1aae5b1" />
+<img width="649" height="547" alt="ConfMatrix_1" src="https://github.com/user-attachments/assets/3ea2553c-c383-4641-af19-9f20b1aae5b1" />
 
 
 ### Pretrained DenseNet121
@@ -83,7 +83,7 @@ streamlit run app.py
 ### Demo Screenshot
 *(File ignored in GitHub, but here’s the result preview)*  
 
-![Dental AI App]<img width="1253" height="641" alt="Dental_AI_App" src="https://github.com/user-attachments/assets/8c4d15da-7522-457b-bda6-cc414e19b507" />
+<img width="1253" height="641" alt="Dental_AI_App" src="https://github.com/user-attachments/assets/8c4d15da-7522-457b-bda6-cc414e19b507" />
 
 
 ---
